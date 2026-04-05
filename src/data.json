@@ -1,0 +1,57 @@
+{
+  "user": {
+    "name": "Davin Pangestu Kusumo",
+    "email": "dpangestuk@gmail.com",
+    "instagram": "@davinpangestuu",
+    "whatsapp": "081218811217",
+    "github": "https://github.com/davininfor",
+    "tagline": "Aspiring Developer & Esports Enthusiast",
+    "about": "I am a passionate individual with a deep interest in technology and web development. Currently active in my school's esports team, I balance my competitive spirit with a drive to build innovative digital solutions. I love creating clean, functional, and aesthetic user interfaces.",
+    "profileImage": "/profilevin.jpeg"
+  },
+  "experiences": [
+    {
+      "id": 1,
+      "title": "Juara 3 SMALACUP 2k25",
+      "organization": "ESPORT PUBG Tournament",
+      "date": "2025",
+      "description": "Achieved 3rd place in a competitive school-level PUBG tournament, demonstrating teamwork and strategic thinking.",
+      "type": "Achievement",
+      "image": "/smalacup.jpeg"
+    }
+  ],
+  "skills": [
+    { "id": 1, "name": "React.js", "category": "Frontend" },
+    { "id": 2, "name": "Tailwind CSS", "category": "Styling" },
+    { "id": 3, "name": "TypeScript", "category": "Language" },
+    { "id": 4, "name": "UI/UX Design", "category": "Design" },
+    { "id": 5, "name": "Framer Motion", "category": "Animation" },
+    { "id": 6, "name": "Node.js", "category": "Backend" }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Modern Portfolio v1",
+      "description": "A clean and minimal portfolio website built with React and Tailwind CSS.",
+      "image": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&q=80&w=800",
+      "tags": ["React", "Tailwind"],
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "title": "Esports Dashboard UI",
+      "description": "A dark-themed dashboard design for tracking esports tournament statistics.",
+      "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80&w=800",
+      "tags": ["Figma", "UI Design"],
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "title": "Task Management App",
+      "description": "A functional task manager with drag-and-drop capabilities.",
+      "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&q=80&w=800",
+      "tags": ["React", "Motion"],
+      "link": "#"
+    }
+  ]
+}
